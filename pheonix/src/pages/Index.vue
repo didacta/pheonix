@@ -1,12 +1,13 @@
 <template>
   <Layout>
-<link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One" rel="stylesheet"> 
+      <div class="home">
+     </div>
+
   </Layout>
 </template>
 
-<script>
-export default {};
-</script>
+
+
 <style>
 html {
 /* background-color: #8BC6EC;
