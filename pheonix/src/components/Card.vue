@@ -1,7 +1,7 @@
 <template>
      <div class="card">
            <!--    <img alt="Vue logo" src="../../src/assets/logo.png" class="logo"> -->
-<h2>Links</h2>
+<h1>Links</h1>
 <hr style="height:1px;border:none;color:#333;background-color:#333;margin-bottom:20px;">
     <h3>Political Life</h3>
   

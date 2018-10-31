@@ -2,6 +2,7 @@
 
 <div>
   <div class="layout">
+    
     <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One" rel="stylesheet"> 
     <header class="header">
       <strong>
@@ -10,9 +11,10 @@
       <nav class="nav">
         <g-link class="nav__link" :to="{ name: 'home' }">Home</g-link>
         <g-link class="nav__link" :to="{ name: 'about' }">About</g-link>
+        
       </nav>
     </header>
-    
+ 
   </div>
     <card/>  
     
